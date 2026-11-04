@@ -18,7 +18,7 @@ const CONFIG = {
             priority: 3 
         },
         { 
-            url: "https://raw.githubusercontent.com/sm-monirulislam/SM-Movie-Hup-Auto-Update/refs/heads/main/Movie_Combined.m3u", 
+            url: "", 
             priority: 2 
         }
     ],
