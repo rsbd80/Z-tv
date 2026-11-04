@@ -18,7 +18,7 @@ const CONFIG = {
             priority: 3 
         },
         { 
-            url: "https://raw.githubusercontent.com/sm-monirulislam/AynaOTT_Auto_Update_Playlist/refs/heads/main/aynaott.m3u", 
+            url: "https://raw.githubusercontent.com/sm-monirulislam/SM-Movie-Hup-Auto-Update/refs/heads/main/Movie_Combined.m3u", 
             priority: 2 
         }
     ],
