@@ -14,7 +14,7 @@ const CONFIG = {
             priority: 1 
         },
         { 
-            url: "https://raw.githubusercontent.com/sm-monirulislam/Toffee-Auto-Update/refs/heads/main/toffee_playlist.m3u", 
+            url: "", 
             priority: 2
         },
         { 
