@@ -14,11 +14,11 @@ const CONFIG = {
             priority: 1 
         },
         { 
-            url: "https://raw.githubusercontent.com/sm-monirulislam/jago_bd_auto_update_playlist-/refs/heads/main/jago_bd_main.m3u", 
+            url: "https://raw.githubusercontent.com/sm-monirulislam/Fancode_Auto_Update_Playlist/refs/heads/main/fancode_bd.m3u", 
             priority: 2
         },
         { 
-            url: "https://raw.githubusercontent.com/sm-monirulislam/SM-Movie-Hup-Auto-Update/refs/heads/main/Movie_Combined.m3u", 
+            url: "https://raw.githubusercontent.com/sm-monirulislam/jago_bd_auto_update_playlist-/refs/heads/main/jago_bd_main.m3u", 
             priority: 3
         }
     ],
